@@ -4,6 +4,7 @@ permalink: "/undergraduate"
 layout: page
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+## Japanese minor:
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+The Minor in Japanese emphasizes language study while also recognizing the importance of learning about Japan through work in fields such as literature, history, anthropology, and religion. This program will be of particular interest to students interested in careers in academia, business, government, or other professions where Japanese language proficiency is important. This minor requires a minimum of 12 credits in Japanese and 6 credits in Japanese-related courses.
+
