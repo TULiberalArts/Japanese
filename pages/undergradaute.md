@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 ## Japanese minor:
@@ -12,4 +13,5 @@ Japanese courses in literature, film and popular culture — all given in transl
 
 ## Courses Offerings
 
-- Minor and Certificate in Japanese
+- [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
+- [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
