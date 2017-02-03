@@ -1,6 +1,6 @@
 -
   name: "Barbara Thornbury"
-  title: "_Professor_"
+  title: <i>Professor</i>
   room: "336"
   building: "Anderson Hall"  
   email: " bthor@temple.edu"
@@ -12,7 +12,7 @@
     Barbara Thornbury is a professor and director of the Japanese program in the Dept. of Asian and Middle Eastern Languages and Studies.  She holds a B.A. from Smith College and an M.A. and Ph.D. from the University of British Columbia.  The author of three books and a number of journal articles and book chapters, she is currently working on research projects related to Japanese literature and film.
 
   name: "Yukari Fujiwara"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "338"
   building: "Anderson Hall"  
   email: "yukari.fujiwara@temple.edu"
@@ -24,7 +24,7 @@
     Yukari Fujiwara received her Bachelor of Arts degree from Atomi University (Japan) and her Masters degree from Eastern Michigan University. She teaches all levels of Japanese language, from elementary to advanced.
   
   name: "Reiko Yoshida"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "339"
   building: "Anderson Hall"  
   email: "reiko.yoshida@temple.edu"
