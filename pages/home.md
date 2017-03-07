@@ -20,19 +20,19 @@ Japanese courses in literature, film and popular culture — all given in transl
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
 
-### Contacts
+## Contacts
 
 ### Department Chair
-Louis Mangione, Ph.D.
-347 Anderson Hall
-[(215) 204-8247](tel:2152048247)
-[mangione@temple.edu](mailto:mangione@temple.edu)
+Louis Mangione, Ph.D.<br />
+347 Anderson Hall<br />
+[(215) 204-8247](tel:2152048247)<br />
+[mangione@temple.edu](mailto:mangione@temple.edu)<br />
 
 ### Minor/Certificate Contact
 
-Barbara Thornbury, Ph.D.
-336 Anderson Hall 
-[(215) 204-4492](tel:2152044492)
-[bthor@temple.edu](mailto:bthor@temple.edu)
+Barbara Thornbury, Ph.D.<br />
+336 Anderson Hall<br />
+[(215) 204-4492](tel:2152044492)<br />
+[bthor@temple.edu](mailto:bthor@temple.edu)<br />
 
 ![]({{site.baseurl}}/media/iStock_Japanese%20Mt.%20Fuji.jpg)
