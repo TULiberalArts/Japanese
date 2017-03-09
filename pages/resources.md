@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-published: true
+published: false
 ---
 
 ## Resources here here to help!
