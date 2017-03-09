@@ -3,8 +3,14 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: "Minor in Japanese"
-feature-body: "The minor in Japanese emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion. This program will be of particular interest to students who seek careers in education, business, government or other professions where Japanese language proficiency is important. The minor requires completion of 18 credits: 12 credits in Japanese and 6 credits in Japanese-related courses."
+feature-title: Minor in Japanese
+feature-body: >-
+  The minor in Japanese emphasizes language study while recognizing the
+  importance of learning about Japan through literature, history, anthropology
+  and religion. This program will be of particular interest to students who seek
+  careers in education, business, government or other professions where Japanese
+  language proficiency is important. The minor requires completion of 18
+  credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 feature-image: media/hero_bg.png
 published: true
 ---
@@ -32,5 +38,3 @@ Barbara Thornbury, Ph.D.<br />
 336 Anderson Hall<br />
 [(215) 204-4492](tel:2152044492)<br />
 [bthor@temple.edu](mailto:bthor@temple.edu)<br />
-
-![]({{site.baseurl}}/media/iStock_Japanese%20Mt.%20Fuji.jpg)
