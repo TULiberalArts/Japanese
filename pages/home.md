@@ -15,6 +15,8 @@ feature-image: media/hero_bg.png
 published: true
 ---
 
+The Minor in Japanese emphasizes language study while also recognizing the importance of learning about Japan through work in fields such as literature, history, anthropology, and religion. This program will be of particular interest to students interested in careers in academia, business, government, or other professions where Japanese language proficiency is important. This minor requires a minimum of 12 credits in Japanese and 6 credits in Japanese-related courses.
+
 Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/search/?search=JPNS+2002), [Advanced Japanese I](http://bulletin.temple.edu/search/?search=JPNS+3001), [Advanced Japanese II](http://bulletin.temple.edu/search/?search=JPNS+3002) and three specified content courses. Students who place out of one or more Japanese language courses must replace those requirements with electives approved by the minor in Japanese faculty advisor.
 
 Japanese courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of Japan. We strongly encourage our students to study in Japan for a semester or more.
