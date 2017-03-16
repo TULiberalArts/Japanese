@@ -1,4 +1,6 @@
-- text: Undergraduate
-  url: /undergraduate/
+- text: Home
+  url: /home/
 - text: Faculty
   url: /faculty/
+- text: Next Stops
+  url : /next-stops/
