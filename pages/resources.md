@@ -5,18 +5,18 @@ layout: page
 published: false
 ---
 
-## Resources here here to help!
+## Resources are here to help!
 
 ## Department Chair
 
-Louis Mangione, Ph.D.
-347 Anderson Hall
-[(215) 204-8247](tel:2152048247)
-[mangione@temple.edu](mailto:mangione@temple.edu)
+Louis Mangione, Ph.D.<br/>
+347 Anderson Hall<br/>
+[(215) 204-8247](tel:2152048247)<br/>
+[mangione@temple.edu](mailto:mangione@temple.edu)<br/>
 
 ## Minor and Certificate in Japanese
 
-Barbara Thornbury, Ph.D.
-336 Anderson Hall 
-[(215) 204-4492](tel:2152044492)
-[bthor@temple.edu](mailto:bthor@temple.edu)
+Barbara Thornbury, Ph.D.<br/>
+336 Anderson Hall <br/>
+[(215) 204-4492](tel:2152044492)<br/>
+[bthor@temple.edu](mailto:bthor@temple.edu)<br/>
