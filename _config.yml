@@ -8,7 +8,7 @@ baseurl: /japanese
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The College of Liberal Arts offers a major in Japanese (at the Temple University Japan campus only) as well as a minor and a certificate. For information about the Japanese major, visit the Japanese program page.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 3rd Floor
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: japanese@temple.edu
+  email: <a href="mailto:japanese@temple.edu">japanese@temple.edu</a>
   phone: 215-204-8268
 
 # Social Media
