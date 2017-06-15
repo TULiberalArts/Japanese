@@ -25,8 +25,9 @@ Japanese courses in literature, film and popular culture — all given in transl
 
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
-sidebar: true
-sidebar-content: > #
+
+ <hr>
+
   ### Contact Us
 
   <hr>
@@ -52,4 +53,3 @@ sidebar-content: > #
   429 Anderson Hall <br/>
   [(215) 204-5628](tel:2152045628) <br/>
   [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
----
