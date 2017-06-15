@@ -4,6 +4,33 @@ meta-keywords: japanese, minor, credits
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Louis Mangione, Ph.D.<br/>
+  347 Anderson Hall<br/>
+  [(215) 204-8247](tel:2152048247)<br/>
+  [mangione@temple.edu](mailto:mangione@temple.edu)<br/>
+
+  <hr>
+
+  **Minor and Certificate in Japanese:** <br/>
+  Barbara Thornbury, Ph.D.<br/>
+  336 Anderson Hall <br/>
+  [(215) 204-4492](tel:2152044492)<br/>
+  [bthor@temple.edu](mailto:bthor@temple.edu) <br/>
+
+  <hr>
+  
+  **Administrator:** <br/>
+  Michelle Pugliese <br/>
+  429 Anderson Hall <br/>
+  [(215) 204-5628](tel:2152045628) <br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
 ---
 
 ## Japanese minor:
