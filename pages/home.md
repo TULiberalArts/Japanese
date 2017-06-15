@@ -28,7 +28,7 @@ Japanese courses in literature, film and popular culture — all given in transl
 
  <hr>
 
- ### Contact Us
+### Contact Us
 
   <hr>
 
