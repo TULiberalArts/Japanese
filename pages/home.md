@@ -15,6 +15,35 @@ feature-body: >-
   credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 feature-image: media/hero_bg.png
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Louis Mangione, Ph.D.<br/>
+  347 Anderson Hall<br/>
+  [(215) 204-8247](tel:2152048247)<br/>
+  [mangione@temple.edu](mailto:mangione@temple.edu)<br/>
+
+  <hr>
+
+  **Minor and Certificate in Japanese:** <br/>
+  Barbara Thornbury, Ph.D.<br/>
+  336 Anderson Hall <br/>
+  [(215) 204-4492](tel:2152044492)<br/>
+  [bthor@temple.edu](mailto:bthor@temple.edu) <br/>
+
+  <hr>
+  
+  **Administrator:** <br/>
+  Michelle Pugliese <br/>
+  429 Anderson Hall <br/>
+  [(215) 204-5628](tel:2152045628) <br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
+  
+   <hr>
 ---
 
 Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/search/?search=JPNS+2002), [Advanced Japanese I](http://bulletin.temple.edu/search/?search=JPNS+3001), [Advanced Japanese II](http://bulletin.temple.edu/search/?search=JPNS+3002) and three specified content courses. Students who place out of one or more Japanese language courses must replace those requirements with electives approved by the minor in Japanese faculty advisor.
