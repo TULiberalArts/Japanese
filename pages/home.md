@@ -15,9 +15,18 @@ feature-body: >-
   credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 feature-image: media/hero_bg.png
 published: true
-sidebar: true
-sidebar-content: > #
-  ### Contact Us
+---
+
+Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/search/?search=JPNS+2002), [Advanced Japanese I](http://bulletin.temple.edu/search/?search=JPNS+3001), [Advanced Japanese II](http://bulletin.temple.edu/search/?search=JPNS+3002) and three specified content courses. Students who place out of one or more Japanese language courses must replace those requirements with electives approved by the minor in Japanese faculty advisor.
+
+Japanese courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of Japan. We strongly encourage our students to study in Japan for a semester or more.
+
+## Course Offerings
+
+- [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
+- [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)<br/>
+   
+### Contact Us
 
   <hr>
 
@@ -45,13 +54,3 @@ sidebar-content: > #
   
   <hr>
 ---
-
-Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/search/?search=JPNS+2002), [Advanced Japanese I](http://bulletin.temple.edu/search/?search=JPNS+3001), [Advanced Japanese II](http://bulletin.temple.edu/search/?search=JPNS+3002) and three specified content courses. Students who place out of one or more Japanese language courses must replace those requirements with electives approved by the minor in Japanese faculty advisor.
-
-Japanese courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of Japan. We strongly encourage our students to study in Japan for a semester or more.
-
-## Course Offerings
-
-- [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-- [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)<br/>
-   
