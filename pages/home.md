@@ -51,6 +51,4 @@ Japanese courses in literature, film and popular culture — all given in transl
   429 Anderson Hall <br/>
   [(215) 204-5628](tel:2152045628) <br/>
   [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
-  
-  <hr>
 ---
