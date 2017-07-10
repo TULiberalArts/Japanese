@@ -26,32 +26,28 @@ Japanese courses in literature, film and popular culture — all given in transl
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)<br/>
 
-  <hr>
+   ___    
    
-### Contact Us
+  **Chair:**  
+   Louis Mangione, Ph.D.  
+   347 Anderson Hall  
+   [(215) 204-8247](tel:2152048247)  
+   [mangione@temple.edu](mailto:mangione@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
+   **Coordinator:**  
+   Peggy Shadding  
+   Anderson Hall    
+   [(215) 204-8267](tel:2152048267)   
+   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
+---
 
-  **Chair:** <br/>
-  Louis Mangione, Ph.D.<br/>
-  347 Anderson Hall<br/>
-  [(215) 204-8247](tel:2152048247)<br/>
-  [mangione@temple.edu](mailto:mangione@temple.edu)<br/>
-
-  <hr>
-
-  **Minor and Certificate in Japanese:** <br/>
-  Barbara Thornbury, Ph.D.<br/>
-  336 Anderson Hall <br/>
-  [(215) 204-4492](tel:2152044492)<br/>
-  [bthor@temple.edu](mailto:bthor@temple.edu) <br/>
-
-  <hr>
-  
-  **Administrator:** <br/>
-  Michelle Pugliese <br/>
-  429 Anderson Hall <br/>
-  [(215) 204-5628](tel:2152045628) <br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
-  
-  <hr>
