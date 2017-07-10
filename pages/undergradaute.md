@@ -3,7 +3,7 @@ title: Undergraduate
 meta-keywords: japanese, minor, credits
 permalink: /undergraduate/
 layout: page
-published: true
+published: false
 sidebar: true
 sidebar-content: > #
   **Chair:**  
