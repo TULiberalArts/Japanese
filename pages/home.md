@@ -1,7 +1,10 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: japanese, minor, certificate
+meta-description: >-
+  The minor in Japanese emphasizes language study while recognizing the
+  importance of learning about Japan through literature, history,  anthropology
+  and religion.
+meta-keywords: 'japanese, minor, certificate'
 permalink: /
 layout: home
 feature: true
@@ -50,4 +53,3 @@ Japanese courses in literature, film and popular culture — all given in transl
    [(215) 204-8267](tel:2152048267)   
    [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
 ---
-
