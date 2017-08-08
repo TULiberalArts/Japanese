@@ -1,6 +1,8 @@
 ---
 title: Next Stops
-meta-description: Our students have gone on to careers and graduate education in a variety of fields, from education and the media to business and government.
+meta-description: >-
+  Our students have gone on to careers and graduate education in a variety of
+  fields, from education and the media to business and government.
 meta-keywords: 'transfer, visit, careers'
 permalink: /next-stops/
 layout: page
