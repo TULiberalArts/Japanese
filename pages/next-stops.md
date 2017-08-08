@@ -28,7 +28,7 @@ The College of Liberal Arts offers a great deal of flexibility to help you accom
 efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](https://temple.edu/transfer).
 
 ## Apply
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](https://admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](https://admissions.temple.edu/apply/transfer-applicant).
 
 ## Deadlines
 
