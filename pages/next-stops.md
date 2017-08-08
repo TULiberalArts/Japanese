@@ -25,10 +25,10 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 ## Thinking Of Transferring?
 
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as
-efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](https://temple.edu/transfer).
+efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](https://admissions.temple.edu/apply/transfer-applicant).
 
 ## Apply
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](https://admissions.temple.edu/apply/transfer-applicant).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](https://admissions.temple.edu/apply).
 
 ## Deadlines
 
