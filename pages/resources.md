@@ -1,9 +1,8 @@
 ---
 title: Resources
-meta-keywords: contact, faculty, resources
 permalink: /resources/
 layout: page
+keywords: 'contact, faculty, resources'
+description: >-
 published: false
 ---
-
-
