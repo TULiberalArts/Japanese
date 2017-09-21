@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'japanese, minor, credits'
 permalink: /undergraduate/
 layout: page
+keywords: 'japanese, minor, credits'
+description: >-
 published: false
 sidebar: true
 sidebar-content: |
