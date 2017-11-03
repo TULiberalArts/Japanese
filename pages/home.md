@@ -7,8 +7,12 @@ meta-description: >-
 meta-keywords: 'japanese, minor, certificate'
 permalink: /
 layout: home
+description: >-
+  The minor in Japanese emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion.
+keywords: 'japanese, minor, certificate'
 feature: true
 feature-title: Minor in Japanese
+feature-image: media/hero_bg.png
 feature-body: >-
   The minor in Japanese emphasizes language study while recognizing the
   importance of learning about Japan through literature, history, anthropology
@@ -16,7 +20,6 @@ feature-body: >-
   careers in education, business, government or other professions where Japanese
   language proficiency is important. The minor requires completion of 18
   credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
-feature-image: media/hero_bg.png
 published: true
 ---
 
