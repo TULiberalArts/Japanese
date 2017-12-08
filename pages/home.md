@@ -6,7 +6,7 @@ meta-description: >-
   and religion.
 meta-keywords: 'japanese, minor, certificate'
 permalink: /
-layout: home
+layout: home3
 description: >-
   The minor in Japanese emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion.
 keywords: 'japanese, minor, certificate'
