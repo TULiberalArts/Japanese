@@ -22,13 +22,13 @@ feature-body: >-
   credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 published: true
 ---
+The College of Liberal Arts’ Japanese [minor](#course-offerings) emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion. This program is designed for students seeking careers in education, business, government or other professions where Japanese language proficiency is important. As a Japanese minor, you’ll complete 18 credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 
 Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/search/?search=JPNS+2002), [Advanced Japanese I](http://bulletin.temple.edu/search/?search=JPNS+3001), [Advanced Japanese II](http://bulletin.temple.edu/search/?search=JPNS+3002) and three specified content courses. Students who place out of one or more Japanese language courses must replace those requirements with electives approved by the minor in Japanese faculty advisor.
 
 Japanese courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of Japan. We strongly encourage our students to study in Japan for a semester or more.
 
 ## Course Offerings
-
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)<br/>
 
