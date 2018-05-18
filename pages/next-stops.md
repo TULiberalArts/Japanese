@@ -9,7 +9,7 @@ description: >-
 keywords: 'transfer, visit, careers'
 published: true
 ---
-Our students have gone on to careers and graduate education in a variety of fields, from education and the media to business and government.
+College of Liberal Arts Japanese minor graduates have gone on to careers and graduate education in a variety of fields, from education and the media to business and government. Take the first step toward joining them by [making your declaration](#make-your-declaration) and coming to North Philly for a campus [visit](#visit). Need more information? Take a look at our [application deadlines](#deadlines) and your [transfer](#thinking of transferring) opportunities before you [apply](#apply). 
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University.
