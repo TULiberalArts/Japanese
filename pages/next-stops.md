@@ -1,15 +1,17 @@
 ---
-title: Next Stops
-meta-keywords: 'transfer, visit, careers'
+# global predefined variables
+layout: tla_page
 permalink: /next-stops/
-layout: page
+published: true
+# meta-data variables
+title: Next Stops
 description: >-
   Our students have gone on to careers and graduate education in a variety of
   fields, from education and the media to business and government.
 keywords: 'transfer, visit, careers'
-published: true
+# custom variables
 ---
-College of Liberal Arts Japanese minor graduates have gone on to careers and graduate education in a variety of fields, from education and the media to business and government. Take the first step toward joining them by [making your declaration](#make-your-declaration) and coming to North Philly for a campus [visit](#visit). Need more information? Take a look at our [application deadlines](#deadlines) and your [transfer](#thinking of transferring) opportunities before you [apply](#apply). 
+College of Liberal Arts Japanese minor graduates have gone on to careers and graduate education in a variety of fields, from education and the media to business and government. Take the first step toward joining them by [making your declaration](#make-your-declaration) and coming to North Philly for a campus [visit](#visit). Need more information? Take a look at our [application deadlines](#deadlines) and your [transfer](#thinking of transferring) opportunities before you [apply](#apply).
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University.
@@ -30,8 +32,8 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Deadlines
 
-- **February 1**: Freshman Application Deadline for Fall Semester 
-- **March 1**: FAFSA Financial Aid Application Deadline 
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **March 1**: FAFSA Financial Aid Application Deadline
 - **November 1**: Transfer Deadline for Spring S
 - **November 1**: Transfer Deadline for Spring S
 - **June 1**: Transfer Deadline for Fall Semester

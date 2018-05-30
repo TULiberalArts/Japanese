@@ -1,15 +1,14 @@
 ---
-title: Home
-meta-description: >-
-  The minor in Japanese emphasizes language study while recognizing the
-  importance of learning about Japan through literature, history, anthropology
-  and religion.
-meta-keywords: 'japanese, minor, certificate'
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
+keywords: 'japanese, minor, certificate'
 description: >-
   The minor in Japanese emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion.
-keywords: 'japanese, minor, certificate'
+# custom variables
 feature: true
 feature-title: Minor in Japanese
 feature-image: media/hero_bg.png
@@ -20,7 +19,6 @@ feature-body: >-
   careers in education, business, government or other professions where Japanese
   language proficiency is important. The minor requires completion of 18
   credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
-published: true
 ---
 The College of Liberal Arts’ Japanese [minor](#course-offerings) emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion. This program is designed for students seeking careers in education, business, government or other professions where Japanese language proficiency is important. As a Japanese minor, you’ll complete 18 credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 

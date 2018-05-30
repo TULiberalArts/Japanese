@@ -1,8 +1,11 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: "/graduate/"
-layout: page
+published: false
+# meta-data variables
+title: Graduate
 keywords: ''
 description: >-
+# custom variables
 ---
-

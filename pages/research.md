@@ -1,9 +1,11 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: "/research/"
-layout: page
+published: false
+# meta-data variables
+title: Research
 keywords: ''
 description: >-
+# custom variables
 ---
-
-

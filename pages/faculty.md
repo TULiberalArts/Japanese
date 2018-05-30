@@ -1,11 +1,14 @@
 ---
-title: Faculty
+# global predefined variables
+layout: tla_faculty
 permalink: /faculty/
-layout: faculty2
+published: true
+# meta-data variables
+title: Faculty
 keywords: 'japanese, faculty'
 description: >-
   Our faculty members have studied and taught all over the world. They work
   closely with our students in small classes.
-published: true
+# custom variables
 ---
 The College of Liberal Arts’ Japanese education faculty members have studied and taught all over the world. They work closely with our students in small classes.
