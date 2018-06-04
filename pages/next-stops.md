@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Our students have gone on to careers and graduate education in a variety of
-  fields, from education and the media to business and government.
+  See where a minor in Japanese from Temple University can take you! Make your declaration at the College
+  of Liberal Arts, visit us, review application deadlines, read up on transfer opportunities, and apply.
 keywords: 'transfer, visit, careers'
 # custom variables
 ---
