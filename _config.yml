@@ -5,7 +5,7 @@ title: Japanese
 baseurl: /japanese
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-# url for sitemap spit
+# url spits sitemap
 url: https://www.cla.temple.edu/japanese
 
 # Program Information
