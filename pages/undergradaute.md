@@ -23,14 +23,6 @@ sidebar-content: |
    429 Anderson Hall   
    [(215) 204-5628](tel:2152045628)  
    [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Peggy Shadding  
-   Anderson Hall    
-   [(215) 204-8267](tel:2152048267)   
-   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)
 ---
 ## Japanese minor:
 The Minor in Japanese emphasizes language study while also recognizing the importance of learning about Japan through work in fields such as literature, history, anthropology, and religion. This program will be of particular interest to students interested in careers in academia, business, government, or other professions where Japanese language proficiency is important. This minor requires a minimum of 12 credits in Japanese and 6 credits in Japanese-related courses.
@@ -39,6 +31,6 @@ Japanese courses in literature, film and popular culture — all given in transl
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
-## Courses Offerings
+## Course Offerings
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-- [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
+- [Certificate of Specialization in Japanese]((http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
