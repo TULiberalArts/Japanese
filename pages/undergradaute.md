@@ -33,4 +33,4 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Course Offerings
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-- [Certificate of Specialization in Japanese]((http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/certificate-specialization-japanese/)
+- [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)
