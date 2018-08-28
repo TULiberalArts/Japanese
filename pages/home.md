@@ -7,9 +7,11 @@ published: true
 title: Home
 keywords: 'japanese, minor, certificate'
 description: >-
-  A minor or certificate in Japanese emphasizes language study while recognizing the 
+  A minor or certificate in Japanese emphasizes language study while recognizing the
   importance of learning about Japan through literature, history, anthropology and religion.
 # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title: Minor in Japanese
 feature-image: media/hero_bg.png
