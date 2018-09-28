@@ -11,7 +11,7 @@ description: >-
   importance of learning about Japan through literature, history, anthropology and religion.
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Minor in Japanese
 feature-image: media/hero_bg.png
