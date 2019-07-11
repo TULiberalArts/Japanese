@@ -36,8 +36,8 @@ Japanese courses in literature, film and popular culture — all given in transl
    ___    
    
   **Chair:**  
-   Barbara Thornbury 
-   336 Anderson Hall    
+   Barbara Thornbury    
+   336 Anderson Hall     
    [bthor@temple.edu](mailto:bthor@temple.edu)  
    
    ___
