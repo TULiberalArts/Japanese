@@ -11,4 +11,3 @@ description: >-
 # custom variables
 faculty: profiles/faculty.html
 ---
-The College of Liberal Arts’ Japanese education faculty members have studied and taught all over the world. They work closely with our students in small classes.
