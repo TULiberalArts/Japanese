@@ -11,3 +11,4 @@ description: >-
 # custom variables
 faculty: profiles/faculty.html
 ---
+Our faculty members have studied all over the world. They put their knowledge into practice working closely with our students in small classes.
