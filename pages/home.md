@@ -13,16 +13,11 @@ description: >-
 promotion-table: true
 
 feature: true
-feature-title: Minor in Japanese
+feature-title: 
 feature-image: media/hero_bg.png
 feature-body: >-
-  The minor in Japanese emphasizes language study while recognizing the
-  importance of learning about Japan through literature, history, anthropology
-  and religion. This program will be of particular interest to students who seek
-  careers in education, business, government or other professions where Japanese
-  language proficiency is important. The minor requires completion of 18
-  credits: 12 credits in Japanese and 6 credits in Japanese-related courses.
 ---
+## Minor in Japanese
 The Minor in Japanese emphasizes language study while recognizing the importance of learning about Japan through literature, history, anthropology and religion. This program is designed for students seeking careers in education, business, government or other professions where Japanese language proficiency is important. As a Japanese minor, you’ll complete 18 credits: 9 credits in Japanese and 9 credits in Japan-related courses.
 
 Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/search/?search=JPNS+2002), [Advanced Japanese I](http://bulletin.temple.edu/search/?search=JPNS+3001), [Advanced Japanese II](http://bulletin.temple.edu/search/?search=JPNS+3002) and three specified content courses. Students who place out of one or more Japanese language courses must replace those requirements with electives approved by the Japanese Minor faculty advisor.
