@@ -24,7 +24,7 @@ Required courses include [Intermediate Japanese II](http://bulletin.temple.edu/s
 
 Japanese courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of Japan. We strongly encourage our students to study in Japan for a semester or more so they can make the most of their Japanese education.
 
-## Course Offerings
+## Academic Offerings
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
 - [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)<br/>
 
