@@ -26,7 +26,7 @@ Japanese courses in literature, film and popular culture — all given in transl
 
 ## Academic Offerings
 - [Minor in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/japanese/minor-japanese/)
-- [Certificate of Specialization in Japanese](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-japanese/)<br/>
+- [Certificate of Specialization in Japanese](https://www.temple.edu/academics/degree-programs/japanese-certificate-undergraduate-la-jpns-cr2%2B)<br/>
 
    ___    
    
