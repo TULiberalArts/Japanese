@@ -38,9 +38,16 @@ Japanese courses in literature, film and popular culture — all given in transl
    ___
    
    **Administrator:**  
-   Michelle Pugliese  
+   Michelle Xu  
    429 Anderson Hall   
    [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   [xu.michelle@temple.edu](mailto:xu.michelle@temple.edu)  
    
    ___
+   
+   **Coordinator:**  
+   Stephanie Smith  
+   539 Anderson Hall   
+   [(215) 204-1760](tel:2152041760)  
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+   
