@@ -33,9 +33,7 @@ Japanese courses in literature, film and popular culture — all given in transl
   **Chair:**  
    Barbara Thornbury    
    336 Anderson Hall     
-   [bthor@temple.edu](mailto:bthor@temple.edu)  
-   
-   ___
+   [bthor@temple.edu](mailto:bthor@temple.edu)    
    
    **Administrator:**  
    Michelle Xu  
@@ -43,11 +41,10 @@ Japanese courses in literature, film and popular culture — all given in transl
    [(215) 204-5628](tel:2152045628)  
    [xu.michelle@temple.edu](mailto:xu.michelle@temple.edu)  
    
-   ___
-   
    **Coordinator:**  
    Stephanie Smith  
    539 Anderson Hall   
    [(215) 204-1760](tel:2152041760)  
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
    
+   ___ 
